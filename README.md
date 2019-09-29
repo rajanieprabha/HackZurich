@@ -1,5 +1,7 @@
 # HackZurich
 
+![iPark](iPark_webapp/img/iPark.png?raw=true "iPark WebApp")
+
 # What it does
 It uses trained time-series tensorflow models to predict real-time free parking spaces in the city of Zurich.
 
