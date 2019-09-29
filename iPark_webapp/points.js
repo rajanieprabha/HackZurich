@@ -11,7 +11,7 @@ var geojson = {
                 ]
             },
             "properties": {
-                "iconUrl": "img/ic_restaurant_1_map.png",
+                "iconUrl": "img/park.png",
                 "polygonColor": "#abc3f2"
             }
         },
@@ -25,7 +25,7 @@ var geojson = {
                 ]
             },
             "properties": {
-                "iconUrl": "img/ic_restaurant_2_map.png",
+                "iconUrl": "img/park.png",
                 "polygonColor": "#8fddb5"
             }
         },
@@ -39,7 +39,7 @@ var geojson = {
                 ]
             },
             "properties": {
-                "iconUrl": "img/ic_restaurant_3_map.png",
+                "iconUrl": "img/park.png",
                 "polygonColor": "#e6f2a2"
             }
         }
