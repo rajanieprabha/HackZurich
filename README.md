@@ -1,4 +1,4 @@
-# HackZurich
+# HackZurich (https://digitalfestival.ch/en/HACK)
 
 ![iPark](iPark_webapp/img/iPark.png?raw=true "iPark WebApp")
 
