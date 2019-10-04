@@ -4,6 +4,7 @@
 
 # What it does
 It uses trained time-series tensorflow models to predict real-time free parking spaces in the city of Zurich.
+You can spin up the server via Node.js, and getting an API key from TOMTOM following the simple instructions ![here] (https://developer.tomtom.com/maps-sdk-web-js/tutorials/display-vector-map). 
 
 # How I built it
 We used tensorflow and keras to train time-series dependent data to predict multiple points in the future. We used the Tom Tom API to load maps and connected the backend-frontend using node.js and json!
@@ -18,6 +19,6 @@ The models trained have very high accuracy and can predict up to 72 points in th
 LSTMs models (just 4 layers) are pretty good at learning time-series data.
 
 # What's next for iPark
-Adding a Parking wallet where a person can gain parking points by choosing the most sustainble parking option. He/She can collect and redeem these points for some parking space.
+Adding a Parking wallet where a person can gain parking points by choosing the most sustainble parking option. She can collect and redeem these points for some parking space.
 
 # TechStack : Tensorflow, keras, javascript, tomtom maps, python
