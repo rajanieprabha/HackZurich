@@ -1,10 +1,10 @@
-# HackZurich (https://digitalfestival.ch/en/HACK)
+# HackZurich (https://digitalfestival.ch/en/HACK) 
 
 ![iPark](iPark_webapp/img/iPark.png?raw=true "iPark WebApp")
 
 # What it does
-It uses trained time-series tensorflow models to predict real-time free parking spaces in the city of Zurich.
-You can spin up the server via Node.js, and getting an API key from TOMTOM following the simple instructions ![here](https://developer.tomtom.com/maps-sdk-web-js/tutorials/display-vector-map). 
+It uses trained time-series tensorflow models to predict real-time free parking spaces in the city of Zurich. Check our [kick-off presentation](https://docs.google.com/presentation/d/15wgDwfOf-mPVWHZ2XxMgOrZI5RBj9h8jCzLxqcEjLYU/edit?usp=sharing).
+You can spin up the server via Node.js, and getting an API key from TOMTOM following the simple instructions [here](https://developer.tomtom.com/maps-sdk-web-js/tutorials/display-vector-map). 
 
 # How I built it
 We used tensorflow and keras to train time-series dependent data to predict multiple points in the future. We used the Tom Tom API to load maps and connected the backend-frontend using node.js and json!
